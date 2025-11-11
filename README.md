@@ -2,7 +2,7 @@
 
 **`Estudante Web`**
 
-Me chamo Bernardo Pianecer, tenho 16 anos e sou natural do Santa Catarina. Concluí o ensino médio no Colégio São José, com o curso informática básica feito no Senai e cursos de plataforma sobre Linguagens de programação. Sou apaixonad por tecnologia e compartilho meu conhecimento através de projetos para a escola ou para aumentar meu portifólio.
+Me chamo Bernardo Pianecer, tenho 16 anos e sou natural do Santa Catarina. Estou concluindo o ensino médio no Colégio São José, com o curso informática básica feito no Senai e cursos de plataforma sobre Linguagens de programação. Sou apaixonad por tecnologia e compartilho meu conhecimento através de projetos para a escola ou para aumentar meu portifólio.
 
 <p align="left">
     <a href="https://github.com/Bernardo-Pianecer?tab=repositories&sort=stargazers">
