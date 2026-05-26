@@ -62,15 +62,14 @@ Me chamo Bernardo Pianecer, tenho 17 anos e sou natural do Santa Catarina. Estou
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_REAL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=https://github.com/Bernardo-Pianecer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
 
-<img
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_REAL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Bernardo-Pianecer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
 </p>
